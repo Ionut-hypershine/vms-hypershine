@@ -1,8 +1,1 @@
-flask
-flask_sqlalchemy
-flask_mail
-werkzeug
-python-dotenv
-reportlab
-apscheduler
-matplotlib
+
